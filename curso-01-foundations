@@ -1,0 +1,59 @@
+# Curso 01 — Foundations of Cybersecurity
+
+## Status
+✅ Concluído — Certificado: 2JU4CB72YVF4
+
+---
+
+## Tríade CIA
+
+- **Confidencialidade:** somente pessoas autorizadas podem acessar os dados
+- **Integridade:** os dados estão corretos e protegidos contra alterações indevidas
+- **Disponibilidade:** sistemas e dados estão acessíveis quando necessários
+
+> Forma de lembrar: Confidencialidade = quem pode ver | Integridade = se está correto | Disponibilidade = se está acessível
+
+---
+
+## Ativos, Ameaças, Vulnerabilidades e Riscos
+
+- **Ativo:** algo de valor para a organização (dados, sistemas, equipamentos)
+- **Ameaça:** algo capaz de causar dano a um ativo
+- **Vulnerabilidade:** fraqueza que pode ser explorada por uma ameaça
+- **Risco:** possibilidade de uma ameaça explorar uma vulnerabilidade e causar impacto
+
+> Exemplo: um servidor desatualizado é um ativo com vulnerabilidade. Um atacante pode explorá-la, causando roubo de dados.
+
+---
+
+## Tipos de Ataque
+
+| Tipo | O que é |
+|------|---------|
+| Phishing | Mensagem enganosa para roubar dados ou induzir uma ação |
+| Engenharia social | Manipular pessoas para obter informações ou acesso |
+| Ransomware | Malware que bloqueia dados e exige pagamento |
+| Força bruta | Tentar muitas senhas até encontrar uma válida |
+| Ameaça interna | Funcionário ou parceiro que usa acesso de forma inadequada |
+
+---
+
+## Os 8 Domínios de Segurança
+
+1. Segurança e gerenciamento de riscos
+2. Segurança de recursos
+3. Arquitetura e engenharia de segurança
+4. Comunicação e segurança de rede
+5. Gerenciamento de identidade e acesso (IAM)
+6. Avaliação e teste de segurança
+7. Operações de segurança (SOC)
+8. Segurança de desenvolvimento de software
+
+---
+
+## Ferramentas que um analista SOC usa
+
+- **SIEM:** reúne logs de várias fontes para monitorar e investigar eventos
+- **IDS:** monitora atividades e alerta sobre possíveis intrusões
+- **Logs:** registros de eventos que ajudam a reconstruir o que aconteceu
+- **Playbook:** instruções que orientam como agir diante de um incidente
