@@ -25,7 +25,7 @@ ameaças e resposta a incidentes.
 Cada pasta corresponde a um curso e contém:
 - Resumos dos conceitos principais
 - Anotações pessoais
-- Exercícios e labs práticos
+- Exercicios e labs práticos
 
 ## Certificado
 - **Curso 1:** Foundations of Cybersecurity — [Credencial 2JU4CB72YVF4](https://coursera.org/verify/2JU4CB72YVF4)
