@@ -13,7 +13,7 @@ ameaças e resposta a incidentes.
 | Curso | Título | Status |
 |-------|--------|--------|
 | 01 | Foundations of Cybersecurity | ✅ Concluído |
-| 02 | Play It Safe: Manage Security Risks | 🔄 Em andamento |
+| 02 | Play It Safe: Manage Security Risks | ✅ Concluído |
 | 03 | Connect and Protect: Networks and Network Security | ⏳ Pendente |
 | 04 | Tools of the Trade: Linux and SQL | ⏳ Pendente |
 | 05 | Assets, Threats, and Vulnerabilities | ⏳ Pendente |
